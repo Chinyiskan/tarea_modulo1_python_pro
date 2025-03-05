@@ -4,3 +4,5 @@ meme_dict = {
             }
 
 word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
+
+print("Hola mundo!")
