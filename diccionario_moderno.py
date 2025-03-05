@@ -9,3 +9,5 @@ word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
     # ¿Qué debemos hacer si se encuentra la palabra?
 #else:
     # ¿Qué hacer si no se encuentra la palabra?
+
+print("Hola!")
